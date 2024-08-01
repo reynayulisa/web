@@ -1,0 +1,172 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #0082e8;
+  font-family: 'Times New Roman', Times, serif;
+}
+.Container{
+  width: 1200px;
+  background: white;
+  margin: 10px auto;
+}
+.Superior{
+background: #08182F;
+overflow: hidden;
+}
+.logo{
+float: left;
+width: 300px;
+padding: 35px;
+}
+/*estilos para el menu opciones*/
+.menu{
+  float: left;
+  padding: 100px;
+center
+}
+  .opciones li{
+    float: left;
+    list-style: none;
+  }
+  .opciones li a{
+    color: white;
+    padding: 25px;
+    text-decoration: none;
+    border: 1px solid white;
+  }
+  .opciones li a:hover{
+    background: #0d356a;
+  }
+  .titulo{
+  text-align: center;
+  }
+  /*estilo para el cuerpo*/
+  
+  .cuerpo{
+    overflow: hidden;
+  }
+  .caja{
+    overflow: hidden;
+    float: left;
+    width: 380px;
+    margin: 8px;
+    border: 1px solid;
+  }
+  
+  .subtitulo{
+    background: white;
+  }
+  .servicios{
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+  }
+  .efecto:hover{
+  opacity: 0.8;
+  cursor: pointer;
+
+  }
+  .contenido{
+  padding: 10px;
+  text-align: justify;
+  }
+
+  .boton{
+  padding: 15px 20px;
+  margin: 20px 0;
+  color: white;
+  background-color: #08182F;
+  border-radius: 25px;
+  }
+  .boton:hover{
+    background: #123970;
+    cursor: pointer;
+  }
+  .titulo{
+    text-align: center;
+    padding: 20px 0 15px;
+    color: #000000;
+  }
+  
+  .pie{
+    background: #08182F;
+    overflow: hidden;
+  }
+  .izquierda{
+    float: left;
+    width: 550px;
+    padding: 20px;
+  }
+  .derecha{
+    float: left;
+    width: 550px;
+    padding: 20px;
+  }
+  .abajo{
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+    text-align: justify;
+  }
+  .siguenos{
+    text-align: center;
+    color: white;
+    padding: 15px 0;
+  }
+  
+  /*/Textos de las descripciones/*/
+  
+  .Descripcion1{
+    text-align: center;
+    text-align: justify;
+    padding: 80px;
+    font-family: Times New Roman;
+  }
+  .Descripcion2{
+    text-align: center;
+    text-align: justify;
+    padding: 80px;
+    font-family: Times New Roman;
+  }
+  
+  .Descripcion3{
+  text-align: center;
+    text-align: justify;
+    padding: 50px;
+    font-family: Times New Roman;
+  }
+  .Descripcion4{
+    text-align: center;
+    text-align: justify;
+    padding: 40px;
+    font-family: Times New Roman;
+  }
+  
+  .Descripcion5{
+    text-align: left;
+    text-align: justify;
+    padding: 5px;
+    font-family: Times New Roman;
+  }
+  .Descripcion6{
+    text-align: left;
+    text-align: justify;
+    padding: 30px;
+    font-family: Times New Roman;
+    
+  }
+  .Descripcion7{
+    text-align: left;
+    text-align: justify;
+    padding: 10px;
+    font-family: Times New Roman;
+  }
+  
+  .usos{
+    text-align: left;
+    text-align: justify;
+    padding: 10px;
+    font-family: Times New Roman;
+  }
